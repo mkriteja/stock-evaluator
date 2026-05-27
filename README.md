@@ -17,7 +17,7 @@ A robust, terminal-based stock evaluation framework that mimics institutional qu
 
 The Stock Evaluator is designed with a **modular, data-driven architecture**. It separates the concerns of data fetching, mathematical scoring, and terminal presentation. 
 
-This decoupling ensures that you can easily swap out the data provider (e.g., moving from Yahoo Finance to a paid API) or the UI (e.g., adding a web frontend) without having to rewrite the core financial logic.
+This decoupling ensures that you can easily swap out the UI (e.g., attaching a React/Next.js web frontend) or adapt to new data APIs without having to rewrite a single line of the core financial logic.
 
 ```mermaid
 graph TD
