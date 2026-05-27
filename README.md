@@ -31,7 +31,8 @@ graph TD
     end
 
     subgraph Data Layer
-        Fetcher --> YF[(Yahoo Finance / yfinance)]
+        Fetcher --> FMP[(Financial Modeling Prep)]
+        Fetcher -.Fallback.-> YF[(yfinance)]
     end
 
     subgraph Evaluation Engine
