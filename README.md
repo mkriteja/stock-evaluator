@@ -55,12 +55,14 @@ graph TD
 
 The application relies on four strict quantitative pillars to evaluate a stock. Each pillar analyzes raw financial data and mathematically bounds the result to a **0-100 score**.
 
-1. **`pillars/value.py` (30% Weight)**: Determines if the stock is trading at a discount.
+1. **`data_fetcher.py` (The Data Abstraction Layer)**: Acts as the single source of truth for external data. It natively uses `FinanceToolkit` connected to the Financial Modeling Prep (FMP) API for pristine institutional-grade historical statements, while falling back to `yfinance` for live pricing and forward analyst estimates.
+
+2. **`pillars/value.py` (30% Weight)**: Determines if the stock is trading at a discount.
    - **Inverse DCF**: Solves the Discounted Cash Flow equation backward to find the perpetual growth rate the market expects, and compares it to historical FCF growth.
    - **FCF Yield**: Compares the company's Free Cash Flow yield against the risk-free rate (10-Year US Treasury).
    - **Multiples**: Evaluates EV/EBIT, EV/EBITDA, P/E, and P/FCF against historical and sector medians.
 
-2. **`pillars/quality.py` (25% Weight)**: Evaluates the fundamental health and capital efficiency of the underlying business.
+3. **`pillars/quality.py` (25% Weight)**: Evaluates the fundamental health and capital efficiency of the underlying business.
    - **Piotroski F-Score**: A 9-point checklist evaluating profitability, leverage, liquidity, and operating efficiency.
    - **Magic Formula ROC**: Calculates Return on Capital (EBIT / (Net Working Capital + Net Fixed Assets)) to identify companies with strong competitive moats.
    - **ROIC Trends**: Checks if Return on Invested Capital is expanding or contracting.
