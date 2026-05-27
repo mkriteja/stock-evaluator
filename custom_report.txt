@@ -1,0 +1,966 @@
+================================================================================
+Running analysis for: CASH
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mPathward Financial, Inc.[0m  [2m(CASH)[0m                                             [36m [0m
+[36m [0m   Price: [1;36m$83.64[0m  │  Market Cap: [36m$1.8B[0m  │  Sector: [36mFinancial Services[0m         [36m [0m
+[36m [0m   52W Range: [2m$65.87 – $101.26[0m                                                [36m [0m
+[36m [0m   Composite: [32mBuy[0m  [1m[█████████████████████░░░░░░░░░] 69/100[0m                    [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [32m85/100[0m     [1;32mStrong Buy[0m     [32m[█████████████████░░░] [0m    
+ [1m             [0m                                       [32m85/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [33m51/100[0m     [31mSell[0m           [33m[██████████░░░░░░░░░░] [0m    
+ [1m             [0m                                       [33m51/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m80/100[0m     [32mBuy[0m            [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m80/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [33m61/100[0m     [33mWatch / Hold[0m   [33m[████████████░░░░░░░░] [0m    
+ [1m             [0m                                       [33m61/100[0m                     
+                                                                                
+  [2;3m💡 Broadly positive across Value, Growth.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;32m85/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied -12.1% vs.       [32m100…[0m   [37mSignificantly undervalued[0m  
+                     Hist +15.8% (gap:                                          
+                     -28.0%)                                                    
+  FCF Yield vs.      FCF Yield +13.4%  vs     [32m100…[0m   [37mAttractive vs. bonds[0m       
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +9.1%)                                             
+  EV/EBIT Earnings   EV/EBIT [2mN/A[0mx  (sector    [33m50/…[0m   [37mNo EBIT/EV data[0m            
+  Yield              med: [2mN/A[0mx)  EY: [2mN/A[0m                                        
+  Composite          [32mP/E:9.9[0m  [32mP/FCF:7.5[0m       [32m73/…[0m   [37mCheap[0m                      
+  Multiples                                                                     
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [33m51/100[0m  (weight: 25%)
+[3m                    Piotroski F-Score: 6/9  — Above average                     [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m2.59%[0m                               
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$0.45B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m2.43% → 2.59%[0m                       
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=6.3% vs ROA=2.6%[0m         
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2m0.4% → 0.5%[0m                         
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2mN/A[0m                                 
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.02B → 0.02B[0m                       
+  F8 ΔGross Margin > 0         │    [31m✗[0m     │ [2mN/A[0m                                 
+  F9 ΔAsset Turnover > 0       │    [32m✓[0m     │ [2m0.09x → 0.09x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ [2mN/A[0m              │ [33m50/100[0m │ [37mNo EBIT data[0m                 
+  ROIC Trend         │ +2.4% → +2.6%    │ [31m12/100[0m │ [37mStable →[0m                     
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m80/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 0.20x  (P/E 9.9,  EPS        [32m1…[0m   [37mUndervalued vs growth[0m  
+                   growth +49.7%)                        [37m(PEG<0.75)[0m             
+  EPS Revision     Fwd EPS revision: +15.0%  │      [32m7…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 0/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.1%                                          
+  Revenue Growth   3yr CAGR: +9.1%  │  YoY: -3.7%   [32m6…[0m   [37mSolid growth (8–15%)[0m   
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;33m61/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:-6.1%  3M:-11.8%  6M:+19.9%        [37mModerate momentum[0m    
+  12M-1M             12M-1M:+13.2%  [2m(vol: 25.6% → [0m                              
+                     [2mscaled: 62.2)[0m                                              
+  EMA Regime         EMA 20:84.38  50:86.86                [37mMixed signals[0m        
+  (Golden Cross      200:82.73  │  52W High: 82.6%                              
+  (Bull))                                                                       
+  MACD  Bullish      MACD -2.0305  Signal -2.3822          [37mBullish[0m              
+  (MACD > Signal)    Hist 0.3517  [2m(Expanding)[0m                                   
+  Volume / OBV       OBV trend: Falling  │  Avg vol        [37mDistribution [0m        
+  Trend              20d/90d: 0.72x                        [37mpressure[0m             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 3.2s
+
+
+================================================================================
+Running analysis for: MELI
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mMercadoLibre, Inc.[0m  [2m(MELI)[0m                                                   [36m [0m
+[36m [0m   Price: [1;36m$1696.48[0m  │  Market Cap: [36m$86.0B[0m  │  Sector: [36mConsumer Cyclical[0m       [36m [0m
+[36m [0m   52W Range: [2m$1495.00 – $2645.22[0m                                             [36m [0m
+[36m [0m   Composite: [33mWatch / Hold[0m  [1m[███████████████████░░░░░░░░░░░] 63/100[0m           [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [32m66/100[0m     [32mBuy[0m            [32m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [32m66/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [33m64/100[0m     [33mWatch / Hold[0m   [33m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [33m64/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m79/100[0m     [32mBuy[0m            [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m79/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [33m45/100[0m     [31mSell[0m           [33m[█████████░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [33m45/100[0m                     
+                                                                                
+  [2;3m💡 Broadly positive across Value, Growth.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;32m66/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied -10.7% vs.       [32m100…[0m   [37mSignificantly undervalued[0m  
+                     Hist +63.1% (gap:                                          
+                     -73.7%)                                                    
+  FCF Yield vs.      FCF Yield +12.5%  vs     [32m100…[0m   [37mAttractive vs. bonds[0m       
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +8.2%)                                             
+  EV/EBIT Earnings   EV/EBIT 30.1x  (sector   [31m0/1…[0m   [37mVery expensive[0m             
+  Yield              med: 14.0x)  EY: +3.3%                                     
+  Composite          [31mP/E:44.8[0m                 [31m33/…[0m   [37mExpensive[0m                  
+  Multiples          [31mEV/EBITDA:22.9[0m                                             
+                     [32mP/FCF:8.0[0m                                                  
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [33m64/100[0m  (weight: 25%)
+[3m                       Piotroski F-Score: 5/9  — Average                        [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m4.68%[0m                               
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$12.12B[0m                             
+  F3 ΔROA > 0                  │    [31m✗[0m     │ [2m7.58% → 4.68%[0m                       
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=28.4% vs ROA=4.7%[0m        
+  F5 ΔLeverage < 0             │    [32m✓[0m     │ [2m11.1% → 10.5%[0m                       
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2m1.21x → 1.17x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.05B → 0.05B[0m                       
+  F8 ΔGross Margin > 0         │    [31m✗[0m     │ [2m46.1% → 44.5%[0m                       
+  F9 ΔAsset Turnover > 0       │    [31m✗[0m     │ [2m0.82x → 0.68x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +31.8%           │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ +22.2% → +14.2%  │ [31m32/100[0m │ [37mDeclining ↓[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m79/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 1.02x  (P/E 44.8,  EPS       [32m8…[0m   [37mFair (PEG 1–1.5)[0m       
+                   growth +43.9%)                                               
+  EPS Revision     Fwd EPS revision: +56.1%  │      [33m6…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 1/3  │           [37mrevisions[0m              
+                   Avg surprise: -0.1%                                          
+  Revenue Growth   3yr CAGR: +38.9%  │  YoY:        [32m1…[0m   [37mHypergrowth (>25%)[0m     
+                   +49.0%                                                       
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;33m45/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:-5.3%  3M:-2.5%  6M:-15.6%         [37mStrong downtrend[0m     
+  12M-1M             12M-1M:-28.3%  [2m(vol: 58.9% → [0m                              
+                     [2mscaled: 35.5)[0m                                              
+  EMA Regime         EMA 20:1679.94  50:1740.20            [37mBear regime — death[0m  
+  (Death Cross       200:1948.66  │  52W High: 64.1%       [37mcross[0m                
+  (Bear))                                                                       
+  MACD  Bullish      MACD -34.0456  Signal -40.4051        [37mBullish[0m              
+  (MACD > Signal)    Hist 6.3596  [2m(Expanding)[0m                                   
+  Volume / OBV       OBV trend: Falling  │  Avg vol        [37mHeavy distribution[0m   
+  Trend              20d/90d: 1.24x                                             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 3.1s
+
+
+================================================================================
+Running analysis for: BSX
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mBoston Scientific Corporation[0m  [2m(BSX)[0m                                         [36m [0m
+[36m [0m   Price: [1;36m$50.71[0m  │  Market Cap: [36m$75.4B[0m  │  Sector: [36mHealthcare[0m                [36m [0m
+[36m [0m   52W Range: [2m$50.49 – $109.50[0m                                                [36m [0m
+[36m [0m   Composite: [33mWatch / Hold[0m  [1m[███████████████████░░░░░░░░░░░] 64/100[0m           [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [33m62/100[0m     [33mWatch / Hold[0m   [33m[████████████░░░░░░░░] [0m    
+ [1m             [0m                                       [33m62/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m82/100[0m     [1;32mStrong Buy[0m     [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m82/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m76/100[0m     [32mBuy[0m            [32m[███████████████░░░░░] [0m    
+ [1m             [0m                                       [32m76/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [31m40/100[0m     [31mSell[0m           [31m[████████░░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [31m40/100[0m                     
+                                                                                
+  [2;3m💡 Broadly positive across Quality, Growth.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;33m62/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [32m100…[0m   [37mSignificantly undervalued[0m  
+                     +55.0% (gap: -45.1%)                                       
+  FCF Yield vs.      FCF Yield +4.5%  vs      [33m52/…[0m   [37mNeutral[0m                    
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +0.2%)                                             
+  EV/EBIT Earnings   EV/EBIT 25.6x  (sector   [31m29/…[0m   [37mVery expensive[0m             
+  Yield              med: 18.0x)  EY: +3.9%                                     
+  Composite          [33mP/E:21.2[0m                 [33m51/…[0m   [37mFair value[0m                 
+  Multiples          [33mEV/EBITDA:17.4[0m                                             
+                     [33mP/FCF:22.1[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m82/100[0m  (weight: 25%)
+[3m                  Piotroski F-Score: 8/9  — Financially strong                  [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m6.64%[0m                               
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$4.53B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m4.71% → 6.64%[0m                       
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=10.4% vs ROA=6.6%[0m        
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2m22.4% → 25.2%[0m                       
+  F6 ΔLiquidity > 0            │    [32m✓[0m     │ [2m1.08x → 1.62x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m1.47B → 1.48B[0m                       
+  F8 ΔGross Margin > 0         │    [32m✓[0m     │ [2m68.6% → 69.0%[0m                       
+  F9 ΔAsset Turnover > 0       │    [32m✓[0m     │ [2m0.43x → 0.46x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +50.5%           │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ +5.6% → +7.6%    │ [31m39/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m76/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 0.70x  (P/E 21.2,  EPS       [32m9…[0m   [37mUndervalued vs growth[0m  
+                   growth +30.3%)                        [37m(PEG<0.75)[0m             
+  EPS Revision     Fwd EPS revision: +57.5%  │      [33m5…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 0/1  │           [37mrevisions[0m              
+                   Avg surprise: +0.0%                                          
+  Revenue Growth   3yr CAGR: +16.5%  │  YoY:        [32m8…[0m   [37mHigh growth (15–25%)[0m   
+                   +11.6%                                                       
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;31m40/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:-13.2%  3M:-33.1%  6M:-48.3%       [37mStrong downtrend[0m     
+  12M-1M             12M-1M:-39.0%  [2m(vol: 54.4% → [0m                              
+                     [2mscaled: 29.1)[0m                                              
+  EMA Regime         EMA 20:56.42  50:61.39                [37mBear regime — death[0m  
+  (Death Cross       200:79.38  │  52W High: 46.3%         [37mcross[0m                
+  (Bear))                                                                       
+  MACD  Bullish      MACD -1.7323  Signal -2.0698          [37mNeutral[0m              
+  (MACD > Signal)    Hist 0.3375  [2m(Contracting)[0m                                 
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mDistribution [0m        
+  Trend              20d/90d: 1.04x                        [37mpressure[0m             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 2.7s
+
+
+================================================================================
+Running analysis for: AMGN
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mAmgen Inc.[0m  [2m(AMGN)[0m                                                           [36m [0m
+[36m [0m   Price: [1;36m$339.64[0m  │  Market Cap: [36m$183.3B[0m  │  Sector: [36mHealthcare[0m              [36m [0m
+[36m [0m   52W Range: [2m$267.83 – $391.29[0m                                               [36m [0m
+[36m [0m   Composite: [33mWatch / Hold[0m  [1m[███████████████████░░░░░░░░░░░] 62/100[0m           [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [31m37/100[0m     [1;31mStrong Sell[0m    [31m[███████░░░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [31m37/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m87/100[0m     [1;32mStrong Buy[0m     [32m[█████████████████░░░] [0m    
+ [1m             [0m                                       [32m87/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [33m64/100[0m     [33mWatch / Hold[0m   [33m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [33m64/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [32m65/100[0m     [32mBuy[0m            [32m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [32m65/100[0m                     
+                                                                                
+  [2;3m💡 Strong Quality, Momentum offset by weak Value.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;31m37/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [31m6/1…[0m   [37mPriced for perfection[0m      
+                     -2.7% (gap: +12.6%)                                        
+  FCF Yield vs.      FCF Yield +4.4%  vs      [33m51/…[0m   [37mNeutral[0m                    
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +0.1%)                                             
+  EV/EBIT Earnings   EV/EBIT 19.3x  (sector   [33m46/…[0m   [37mIn-line with sector[0m        
+  Yield              med: 18.0x)  EY: +5.2%                                     
+  Composite          [33mP/E:23.6[0m                 [33m52/…[0m   [37mFair value[0m                 
+  Multiples          [32mEV/EBITDA:13.4[0m                                             
+                     [33mP/FCF:22.6[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m87/100[0m  (weight: 25%)
+[3m                  Piotroski F-Score: 8/9  — Financially strong                  [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m8.51%[0m                               
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$9.96B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m4.45% → 8.51%[0m                       
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=11.0% vs ROA=8.5%[0m        
+  F5 ΔLeverage < 0             │    [32m✓[0m     │ [2m61.6% → 55.2%[0m                       
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2m1.26x → 1.14x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.54B → 0.54B[0m                       
+  F8 ΔGross Margin > 0         │    [32m✓[0m     │ [2m61.5% → 67.2%[0m                       
+  F9 ΔAsset Turnover > 0       │    [32m✓[0m     │ [2m0.36x → 0.41x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +102.2%          │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ +5.9% → +11.8%   │ [33m64/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;33m64/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 2.22x  (P/E 23.6,  EPS       [31m4…[0m   [37mExpensive vs growth [0m   
+                   growth +10.6%)                        [37m(PEG=2.2)[0m              
+  EPS Revision     Fwd EPS revision: +63.3%  │      [32m8…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 0/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.1%                                          
+  Revenue Growth   3yr CAGR: +11.8%  │  YoY:        [32m7…[0m   [37mSolid growth (8–15%)[0m   
+                   +5.8%                                                        
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;32m65/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:+0.8%  3M:-9.8%  6M:+3.1%          [37mStrong momentum[0m      
+  12M-1M             12M-1M:+24.4%  [2m(vol: 27.1% → [0m                              
+                     [2mscaled: 69.0)[0m                                              
+  EMA Regime         EMA 20:334.70  50:339.69              [37mMixed signals[0m        
+  (Golden Cross      200:327.76  │  52W High: 86.8%                             
+  (Bull))                                                                       
+  MACD  Bullish      MACD -1.3930  Signal -3.2418          [37mBullish[0m              
+  (MACD > Signal)    Hist 1.8488  [2m(Expanding)[0m                                   
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mDistribution [0m        
+  Trend              20d/90d: 0.97x                        [37mpressure[0m             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 2.9s
+
+
+================================================================================
+Running analysis for: PLMR
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mPalomar Holdings, Inc.[0m  [2m(PLMR)[0m                                               [36m [0m
+[36m [0m   Price: [1;36m$111.36[0m  │  Market Cap: [36m$3.0B[0m  │  Sector: [36mFinancial Services[0m        [36m [0m
+[36m [0m   52W Range: [2m$107.51 – $175.85[0m                                               [36m [0m
+[36m [0m   Composite: [32mBuy[0m  [1m[████████████████████░░░░░░░░░░] 66/100[0m                    [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [32m81/100[0m     [1;32mStrong Buy[0m     [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m81/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m70/100[0m     [32mBuy[0m            [32m[██████████████░░░░░░] [0m    
+ [1m             [0m                                       [32m70/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m75/100[0m     [32mBuy[0m            [32m[███████████████░░░░░] [0m    
+ [1m             [0m                                       [32m75/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [31m40/100[0m     [1;31mStrong Sell[0m    [31m[████████░░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [31m40/100[0m                     
+                                                                                
+  [2;3m💡 Strong Value, Quality, Growth offset by weak Momentum.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;32m81/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied -12.5% vs.       [32m100…[0m   [37mSignificantly undervalued[0m  
+                     Hist +34.9% (gap:                                          
+                     -47.4%)                                                    
+  FCF Yield vs.      FCF Yield +13.6%  vs     [32m100…[0m   [37mAttractive vs. bonds[0m       
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +9.3%)                                             
+  EV/EBIT Earnings   EV/EBIT 12.9x  (sector   [33m46/…[0m   [37mIn-line with sector[0m        
+  Yield              med: 12.0x)  EY: +7.8%                                     
+  Composite          [33mP/E:15.5[0m                 [33m58/…[0m   [37mFair value[0m                 
+  Multiples          [33mEV/EBITDA:12.3[0m                                             
+                     [32mP/FCF:7.3[0m                                                  
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m70/100[0m  (weight: 25%)
+[3m                    Piotroski F-Score: 6/9  — Above average                     [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m6.46%[0m                               
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$0.41B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m5.20% → 6.46%[0m                       
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=13.4% vs ROA=6.5%[0m        
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2mN/A[0m                                 
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2mN/A[0m                                 
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.03B → 0.03B[0m                       
+  F8 ΔGross Margin > 0         │    [31m✗[0m     │ [2mN/A[0m                                 
+  F9 ΔAsset Turnover > 0       │    [32m✓[0m     │ [2m0.24x → 0.29x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +9948.3%         │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ +5.2% → +6.5%    │ [31m31/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m75/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG [2mN/A[0mx  (P/E 15.5,  EPS        [33m5…[0m   [37mNo growth rate [0m        
+                   growth [2mN/A[0m)                           [37mavailable[0m              
+  EPS Revision     Fwd EPS revision: +55.2%  │      [32m8…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 0/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.1%                                          
+  Revenue Growth   3yr CAGR: +38.9%  │  YoY:        [32m1…[0m   [37mHypergrowth (>25%)[0m     
+                   +59.7%                                                       
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;31m40/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:-12.4%  3M:-8.6%  6M:-9.8%         [37mWeak (negative [0m      
+  12M-1M             12M-1M:-19.7%  [2m(vol: 34.3% → [0m         [37mmomentum)[0m            
+                     [2mscaled: 40.7)[0m                                              
+  EMA Regime         EMA 20:115.12  50:118.96              [37mBear regime — death[0m  
+  (Death Cross       200:123.23  │  52W High: 63.3%        [37mcross[0m                
+  (Bear))                                                                       
+  MACD  Bullish      MACD -2.4813  Signal -2.9269          [37mNeutral[0m              
+  (MACD > Signal)    Hist 0.4456  [2m(Contracting)[0m                                 
+  Volume / OBV       OBV trend: Falling  │  Avg vol        [37mHeavy distribution[0m   
+  Trend              20d/90d: 1.08x                                             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 2.8s
+
+
+================================================================================
+Running analysis for: FIX
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mComfort Systems USA, Inc.[0m  [2m(FIX)[0m                                             [36m [0m
+[36m [0m   Price: [1;36m$1903.85[0m  │  Market Cap: [36m$67.0B[0m  │  Sector: [36mIndustrials[0m             [36m [0m
+[36m [0m   52W Range: [2m$465.05 – $2073.99[0m                                              [36m [0m
+[36m [0m   Composite: [32mBuy[0m  [1m[████████████████████░░░░░░░░░░] 67/100[0m                    [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [31m37/100[0m     [1;31mStrong Sell[0m    [31m[███████░░░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [31m37/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m89/100[0m     [1;32mStrong Buy[0m     [32m[██████████████████░░] [0m    
+ [1m             [0m                                       [32m89/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m82/100[0m     [1;32mStrong Buy[0m     [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m82/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [32m70/100[0m     [32mBuy[0m            [32m[██████████████░░░░░░] [0m    
+ [1m             [0m                                       [32m70/100[0m                     
+                                                                                
+  [2;3m💡 Strong Quality, Growth, Momentum offset by weak Value.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;31m37/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [32m100…[0m   [37mSignificantly undervalued[0m  
+                     +59.7% (gap: -49.8%)                                       
+  FCF Yield vs.      FCF Yield +1.5%  vs      [31m22/…[0m   [37mBelow risk-free rate[0m       
+  Risk-Free          Treasury +4.3%                                             
+                     (spread -2.8%)                                             
+  EV/EBIT Earnings   EV/EBIT 52.9x  (sector   [31m0/1…[0m   [37mVery expensive[0m             
+  Yield              med: 14.0x)  EY: +1.9%                                     
+  Composite          [31mP/E:54.9[0m                 [31m0/1…[0m   [37mVery expensive[0m             
+  Multiples          [31mEV/EBITDA:39.6[0m                                             
+                     [31mP/FCF:64.9[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m89/100[0m  (weight: 25%)
+[3m                    Piotroski F-Score: 7/9  — Above average                     [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m15.88%[0m                              
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$1.19B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m11.09% → 15.88%[0m                     
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=18.4% vs ROA=15.9%[0m       
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2m1.3% → 2.2%[0m                         
+  F6 ΔLiquidity > 0            │    [32m✓[0m     │ [2m1.08x → 1.21x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.04B → 0.04B[0m                       
+  F8 ΔGross Margin > 0         │    [32m✓[0m     │ [2m21.0% → 24.1%[0m                       
+  F9 ΔAsset Turnover > 0       │    [31m✗[0m     │ [2m1.49x → 1.41x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +91.1%           │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ +24.5% → +33.6%  │ [32m100/1…[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m82/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 1.44x  (P/E 54.9,  EPS       [32m6…[0m   [37mFair (PEG 1–1.5)[0m       
+                   growth +38.1%)                                               
+  EPS Revision     Fwd EPS revision: +51.1%  │      [32m8…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 1/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.4%                                          
+  Revenue Growth   3yr CAGR: +30.0%  │  YoY:        [32m1…[0m   [37mHypergrowth (>25%)[0m     
+                   +1.0%                                                        
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;32m70/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:+10.8%  3M:+32.5%  6M:+101.6%      [37mVery strong [0m         
+  12M-1M             12M-1M:+282.3%  [2m(vol: 46.4% → [0m        [37mmomentum[0m             
+                     [2mscaled: 75.0)[0m                                              
+  EMA Regime         EMA 20:1867.01  50:1718.93            [37mStrong bull regime [0m  
+  (Golden Cross      200:1242.94  │  52W High: 91.8%       [37m— above all EMAs[0m     
+  (Bull))                                                                       
+  MACD  Bearish      MACD 48.0090  Signal 73.9889          [37mBearish[0m              
+  (MACD < Signal)    Hist -25.9799  [2m(Contracting)[0m                               
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mStrong [0m              
+  Trend              20d/90d: 0.92x                        [37minstitutional [0m       
+                                                           [37maccumulation[0m         
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 3.2s
+
+
+================================================================================
+Running analysis for: ELMD
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mElectromed, Inc.[0m  [2m(ELMD)[0m                                                     [36m [0m
+[36m [0m   Price: [1;36m$38.57[0m  │  Market Cap: [36m$0.3B[0m  │  Sector: [36mHealthcare[0m                 [36m [0m
+[36m [0m   52W Range: [2m$17.73 – $39.65[0m                                                 [36m [0m
+[36m [0m   Composite: [32mBuy[0m  [1m[█████████████████████░░░░░░░░░] 69/100[0m                    [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [33m52/100[0m     [31mSell[0m           [33m[██████████░░░░░░░░░░] [0m    
+ [1m             [0m                                       [33m52/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m80/100[0m     [1;32mStrong Buy[0m     [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m80/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m67/100[0m     [32mBuy[0m            [32m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [32m67/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [32m79/100[0m     [32mBuy[0m            [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m79/100[0m                     
+                                                                                
+  [2;3m💡 Broadly positive across Quality, Growth, Momentum.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;33m52/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [32m100…[0m   [37mSignificantly undervalued[0m  
+                     +194.3% (gap: -184.4%)                                     
+  FCF Yield vs.      FCF Yield +3.5%  vs      [31m42/…[0m   [37mNeutral[0m                    
+  Risk-Free          Treasury +4.3%                                             
+                     (spread -0.8%)                                             
+  EV/EBIT Earnings   EV/EBIT 31.1x  (sector   [31m14/…[0m   [37mVery expensive[0m             
+  Yield              med: 18.0x)  EY: +3.2%                                     
+  Composite          [31mP/E:33.0[0m                 [31m34/…[0m   [37mExpensive[0m                  
+  Multiples          [33mEV/EBITDA:20.7[0m                                             
+                     [31mP/FCF:28.8[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m80/100[0m  (weight: 25%)
+[3m                    Piotroski F-Score: 7/9  — Above average                     [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m14.01%[0m                              
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$0.01B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m9.86% → 14.01%[0m                      
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=21.2% vs ROA=14.0%[0m       
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2mN/A[0m                                 
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2m5.75x → 4.31x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.01B → 0.01B[0m                       
+  F8 ΔGross Margin > 0         │    [32m✓[0m     │ [2m76.3% → 78.1%[0m                       
+  F9 ΔAsset Turnover > 0       │    [32m✓[0m     │ [2m1.05x → 1.19x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +24.4%           │ [32m82/100[0m │ [37mHigh ROC — strong moat [0m      
+                     │                  │        │ [37msignal[0m                       
+  ROIC Trend         │ +11.6% → +17.4%  │ [32m83/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m67/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 0.35x  (P/E 33.0,  EPS       [32m1…[0m   [37mUndervalued vs growth[0m  
+                   growth +94.2%)                        [37m(PEG<0.75)[0m             
+  EPS Revision     Fwd EPS revision: -47.9%  │      [31m3…[0m   [37mSignificant downward [0m  
+  Momentum         Upgrades/Downgrades: 0/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.2%                                          
+  Revenue Growth   3yr CAGR: +15.4%  │  YoY:        [32m8…[0m   [37mHigh growth (15–25%)[0m   
+                   +18.4%                                                       
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;32m79/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:+49.9%  3M:+60.2%  6M:+46.0%       [37mVery strong [0m         
+  12M-1M             12M-1M:+40.0%  [2m(vol: 97.4% → [0m         [37mmomentum[0m             
+                     [2mscaled: 75.0)[0m                                              
+  EMA Regime         EMA 20:33.36  50:29.44                [37mStrong bull regime [0m  
+  (Golden Cross      200:26.26  │  52W High: 97.3%         [37m— above all EMAs[0m     
+  (Bull))                                                                       
+  MACD  Bullish      MACD 3.5777  Signal 2.9174  Hist      [37mStrong bullish [0m      
+  (MACD > Signal)    0.6603  [2m(Contracting)[0m                 [37mmomentum[0m             
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mStrong [0m              
+  Trend              20d/90d: 1.15x                        [37minstitutional [0m       
+                                                           [37maccumulation[0m         
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 3.0s
+
+
+================================================================================
+Running analysis for: VRTX
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mVertex Pharmaceuticals Incorporated[0m  [2m(VRTX)[0m                                  [36m [0m
+[36m [0m   Price: [1;36m$439.95[0m  │  Market Cap: [36m$111.7B[0m  │  Sector: [36mHealthcare[0m              [36m [0m
+[36m [0m   52W Range: [2m$362.50 – $507.92[0m                                               [36m [0m
+[36m [0m   Composite: [33mWatch / Hold[0m  [1m[█████████████████░░░░░░░░░░░░░] 55/100[0m           [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [31m25/100[0m     [1;31mStrong Sell[0m    [31m[█████░░░░░░░░░░░░░░░] [0m    
+ [1m             [0m                                       [31m25/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m81/100[0m     [1;32mStrong Buy[0m     [32m[████████████████░░░░] [0m    
+ [1m             [0m                                       [32m81/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m71/100[0m     [32mBuy[0m            [32m[██████████████░░░░░░] [0m    
+ [1m             [0m                                       [32m71/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [33m54/100[0m     [31mSell[0m           [33m[███████████░░░░░░░░░] [0m    
+ [1m             [0m                                       [33m54/100[0m                     
+                                                                                
+  [2;3m💡 Strong Quality, Growth offset by weak Value.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;31m25/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [31m0/1…[0m   [37mPriced for perfection[0m      
+                     -9.8% (gap: +19.7%)                                        
+  FCF Yield vs.      FCF Yield +2.9%  vs      [31m36/…[0m   [37mBelow risk-free rate[0m       
+  Risk-Free          Treasury +4.3%                                             
+                     (spread -1.4%)                                             
+  EV/EBIT Earnings   EV/EBIT 22.6x  (sector   [31m37/…[0m   [37mExpensive[0m                  
+  Yield              med: 18.0x)  EY: +4.4%                                     
+  Composite          [33mP/E:26.1[0m                 [31m33/…[0m   [37mExpensive[0m                  
+  Multiples          [31mEV/EBITDA:21.2[0m                                             
+                     [31mP/FCF:35.0[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m81/100[0m  (weight: 25%)
+[3m                    Piotroski F-Score: 6/9  — Above average                     [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m15.42%[0m                              
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$3.63B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m-2.38% → 15.42%[0m                     
+  F4 Accruals (CFO>NI)         │    [31m✗[0m     │ [2mCFO/Assets=14.2% vs ROA=15.4%[0m       
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2mN/A[0m                                 
+  F6 ΔLiquidity > 0            │    [32m✓[0m     │ [2m2.69x → 2.90x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.26B → 0.25B[0m                       
+  F8 ΔGross Margin > 0         │    [32m✓[0m     │ [2m86.1% → 86.2%[0m                       
+  F9 ΔAsset Turnover > 0       │    [31m✗[0m     │ [2m0.49x → 0.47x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +44.7%           │ [32m100/1…[0m │ [37mExceptional capital [0m         
+                     │                  │        │ [37mefficiency[0m                   
+  ROIC Trend         │ -2.8% → +18.1%   │ [32m86/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m71/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 1.64x  (P/E 26.1,  EPS       [33m6…[0m   [37mSlightly expensive [0m    
+                   growth +15.9%)                        [37m(PEG 1.5–2)[0m            
+  EPS Revision     Fwd EPS revision: +27.3%  │      [32m8…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 1/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.0%                                          
+  Revenue Growth   3yr CAGR: +10.4%  │  YoY:        [32m7…[0m   [37mSolid growth (8–15%)[0m   
+                   +7.8%                                                        
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;33m54/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:+2.3%  3M:-8.4%  6M:+3.8%          [37mNeutral[0m              
+  12M-1M             12M-1M:-3.6%  [2m(vol: 21.0% → [0m                               
+                     [2mscaled: 50.5)[0m                                              
+  EMA Regime         EMA 20:436.25  50:441.07              [37mBear regime — death[0m  
+  (Death Cross       200:445.42  │  52W High: 86.6%        [37mcross[0m                
+  (Bear))                                                                       
+  MACD  Bullish      MACD -0.5599  Signal -1.2482          [37mBullish[0m              
+  (MACD > Signal)    Hist 0.6883  [2m(Expanding)[0m                                   
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mDistribution [0m        
+  Trend              20d/90d: 0.91x                        [37mpressure[0m             
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 2.9s
+
+
+================================================================================
+Running analysis for: NBIX
+================================================================================
+
+Weights: Value 30% · Quality 25% · Growth 20% · Momentum 25% (total: 100%)
+
+
+
+[92m─────────────────────────────── [0m[1;36mSTOCK EVALUATOR[0m[92m ────────────────────────────────[0m
+[36m  [0m[36m                         [0m[36m [0m[1;36mStock Evaluation Report[0m[36m [0m[36m                          [0m[36m  [0m
+[36m [0m [1;37mNeurocrine Biosciences, Inc.[0m  [2m(NBIX)[0m                                         [36m [0m
+[36m [0m   Price: [1;36m$156.01[0m  │  Market Cap: [36m$15.7B[0m  │  Sector: [36mHealthcare[0m               [36m [0m
+[36m [0m   52W Range: [2m$121.42 – $162.39[0m                                               [36m [0m
+[36m [0m   Composite: [32mBuy[0m  [1m[█████████████████████░░░░░░░░░] 69/100[0m                    [36m [0m
+[36m                                                                                [0m
+
+[3m                                4-Pillar Summary                                [0m
+                                                                                
+ [1;36m [0m[1;36mPillar     [0m[1;36m [0m [1;36m [0m[1;36mWeight [0m[1;36m [0m [1;36m [0m[1;36m  Score  [0m[1;36m [0m [1;36m [0m[1;36mSignal      [0m[1;36m [0m [1;36m [0m[1;36mBar                      [0m[1;36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+ [1m [0m[1mValue      [0m[1m [0m    30%      [33m63/100[0m     [33mWatch / Hold[0m   [33m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [33m63/100[0m                     
+ [1m [0m[1mQuality    [0m[1m [0m    25%      [32m66/100[0m     [32mBuy[0m            [32m[█████████████░░░░░░░] [0m    
+ [1m             [0m                                       [32m66/100[0m                     
+ [1m [0m[1mGrowth     [0m[1m [0m    20%      [32m92/100[0m     [1;32mStrong Buy[0m     [32m[██████████████████░░] [0m    
+ [1m             [0m                                       [32m92/100[0m                     
+ [1m [0m[1mMomentum   [0m[1m [0m    25%      [33m62/100[0m     [33mWatch / Hold[0m   [33m[████████████░░░░░░░░] [0m    
+ [1m             [0m                                       [33m62/100[0m                     
+                                                                                
+  [2;3m💡 Broadly positive across Quality, Growth.[0m
+
+[3m                    [0m[1;3;36mPILLAR 1 - VALUE[0m[3m  [0m[3;33m63/100[0m[3m  (weight: 30%)                     [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metric            [0m[36m [0m [36m [0m[36mSco…[0m[36m [0m [36m [0m[36mVerdict                  [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Inverse DCF        Implied +9.9% vs. Hist   [32m100…[0m   [37mSignificantly undervalued[0m  
+                     +32.4% (gap: -22.5%)                                       
+  FCF Yield vs.      FCF Yield +4.8%  vs      [33m55/…[0m   [37mNeutral[0m                    
+  Risk-Free          Treasury +4.3%                                             
+                     (spread +0.5%)                                             
+  EV/EBIT Earnings   EV/EBIT 23.3x  (sector   [31m35/…[0m   [37mExpensive[0m                  
+  Yield              med: 18.0x)  EY: +4.3%                                     
+  Composite          [33mP/E:24.0[0m                 [33m49/…[0m   [37mFair value[0m                 
+  Multiples          [33mEV/EBITDA:17.9[0m                                             
+                     [33mP/FCF:21.0[0m                                                 
+                                                                                
+
+
+[1;36mPILLAR 2 - QUALITY[0m  [32m66/100[0m  (weight: 25%)
+[3m                       Piotroski F-Score: 5/9  — Average                        [0m
+                               ╷          ╷                                     
+ [2m [0m[2mCriterion                   [0m[2m [0m│[2m [0m[2mPass/Fa…[0m[2m [0m│[2m [0m[2mDetail                            [0m[2m [0m 
+╶──────────────────────────────┼──────────┼────────────────────────────────────╴
+  F1 ROA > 0                   │    [32m✓[0m     │ [2m10.33%[0m                              
+  F2 CFO > 0                   │    [32m✓[0m     │ [2m$0.78B[0m                              
+  F3 ΔROA > 0                  │    [32m✓[0m     │ [2m9.18% → 10.33%[0m                      
+  F4 Accruals (CFO>NI)         │    [32m✓[0m     │ [2mCFO/Assets=16.9% vs ROA=10.3%[0m       
+  F5 ΔLeverage < 0             │    [31m✗[0m     │ [2mN/A[0m                                 
+  F6 ΔLiquidity > 0            │    [31m✗[0m     │ [2m3.40x → 3.39x[0m                       
+  F7 No Dilution               │    [32m✓[0m     │ [2m0.10B → 0.10B[0m                       
+  F8 ΔGross Margin > 0         │    [31m✗[0m     │ [2m98.6% → 98.2%[0m                       
+  F9 ΔAsset Turnover > 0       │    [31m✗[0m     │ [2m0.63x → 0.62x[0m                       
+                               ╵          ╵                                     
+                     ╷                  ╷        ╷                              
+ [2m [0m[2mQuality Signal    [0m[2m [0m│[2m [0m[2mValue           [0m[2m [0m│[2m [0m[2mScore [0m[2m [0m│[2m [0m[2mLabel                      [0m[2m [0m 
+╶────────────────────┼──────────────────┼────────┼─────────────────────────────╴
+  Magic Formula ROC  │ +27.4%           │ [32m92/100[0m │ [37mHigh ROC — strong moat [0m      
+                     │                  │        │ [37msignal[0m                       
+  ROIC Trend         │ +10.6% → +12.3%  │ [33m54/100[0m │ [37mImproving ↑[0m                  
+                     ╵                  ╵        ╵                              
+
+[3m                    [0m[1;3;36mPILLAR 3 - GROWTH[0m[3m  [0m[3;32m92/100[0m[3m  (weight: 20%)                    [0m
+                                                                                
+ [36m [0m[36mSignal        [0m[36m [0m [36m [0m[36mKey Metric                    [0m[36m [0m [36m [0m[36mS…[0m[36m [0m [36m [0m[36mVerdict              [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  PEG Ratio        PEG 0.44x  (P/E 24.0,  EPS       [32m1…[0m   [37mUndervalued vs growth[0m  
+                   growth +54.5%)                        [37m(PEG<0.75)[0m             
+  EPS Revision     Fwd EPS revision: +95.5%  │      [32m8…[0m   [37mStrong upward [0m         
+  Momentum         Upgrades/Downgrades: 0/0  │           [37mrevisions[0m              
+                   Avg surprise: +0.0%                                          
+  Revenue Growth   3yr CAGR: +24.3%  │  YoY:        [32m9…[0m   [37mHigh growth (15–25%)[0m   
+                   +42.2%                                                       
+                                                                                
+
+[1;3;36mPILLAR 4 - MOMENTUM[0m[3m  [0m[3;33m62/100[0m[3m  (weight: 25%)  |  Market Regime: [0m[3;32mRisk-ON (SPY > 200[0m
+[3m                                      [0m[3;32mEMA)[0m[3m                                      [0m
+                                                                                
+ [36m [0m[36mSignal          [0m[36m [0m [36m [0m[36mKey Metrics                     [0m[36m [0m [36m  [0m [36m [0m[36mVerdict            [0m[36m [0m 
+ ────────────────────────────────────────────────────────────────────────────── 
+  Price Momentum     1M:+21.8%  3M:+19.4%  6M:+10.4%       [37mModerate momentum[0m    
+  12M-1M             12M-1M:+5.4%  [2m(vol: 37.6% → [0m                               
+                     [2mscaled: 55.8)[0m                                              
+  EMA Regime         EMA 20:150.13  50:142.22              [37mStrong bull regime [0m  
+  (Golden Cross      200:136.89  │  52W High: 96.1%        [37m— above all EMAs[0m     
+  (Bull))                                                                       
+  MACD  Bearish      MACD 6.0634  Signal 6.2180  Hist      [37mStrong bearish [0m      
+  (MACD < Signal)    -0.1546  [2m(Expanding)[0m                  [37mmomentum[0m             
+  Volume / OBV       OBV trend: Rising  │  Avg vol         [37mStrong [0m              
+  Trend              20d/90d: 1.09x                        [37minstitutional [0m       
+                                                           [37maccumulation[0m         
+                                                                                
+
+[2m--------------------------------------------------------------------------------[0m
+[2mResearch: Piotroski (2000) | Jegadeesh-Titman (1993) | Greenblatt (2006) | [0m
+[2mGeorge-Hwang (2004) | S&P DJI Multi-Factor | CFA Institute (2025)[0m
+  Data fetched in 3.6s
+
+
